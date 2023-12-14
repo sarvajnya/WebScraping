@@ -2,7 +2,7 @@
 
 Installation Steps:
 
-git clone https://github.com/z0m31en7/Uscrapper.git
+git clone https://github.com/sarvajnya/WebScraping
 
 cd Uscrapper/install/ 
 

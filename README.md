@@ -4,7 +4,7 @@ Installation Steps:
 
 git clone https://github.com/sarvajnya/WebScraping
 
-cd Uscrapper/install/ 
+cd WebScraping/install/ 
 
 chmod +x ./install.sh && ./install.sh      #For Unix/Linux systems
 
